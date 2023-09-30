@@ -89,6 +89,7 @@ metamath-zero-lsp                         mm0_ls
 move-analyzer                             move_analyzer
 mutt-language-server                      mutt_ls
 neocmakelsp                               neocmake
+nextls                                    nextls
 nickel-lang-lsp                           nickel_ls
 nil                                       nil_ls
 nimlsp                                    nimls

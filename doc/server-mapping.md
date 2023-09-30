@@ -86,6 +86,7 @@
 | [move_analyzer](https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md#move_analyzer) | [move-analyzer](https://mason-registry.dev/registry/list#move-analyzer) |
 | [mutt_ls](https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md#mutt_ls) | [mutt-language-server](https://mason-registry.dev/registry/list#mutt-language-server) |
 | [neocmake](https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md#neocmake) | [neocmakelsp](https://mason-registry.dev/registry/list#neocmakelsp) |
+| [nextls](https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md#nextls) | [nextls](https://mason-registry.dev/registry/list#nextls) |
 | [nickel_ls](https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md#nickel_ls) | [nickel-lang-lsp](https://mason-registry.dev/registry/list#nickel-lang-lsp) |
 | [nil_ls](https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md#nil_ls) | [nil](https://mason-registry.dev/registry/list#nil) |
 | [nimls](https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md#nimls) | [nimlsp](https://mason-registry.dev/registry/list#nimlsp) |
